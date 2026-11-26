@@ -112,4 +112,3 @@ Customer-Behaviour-Retention-Analysis/
     └── Customer_Behaviour_Retention_Case_Study.docx
 ```
 
-Add your own workbook and `.pbix` files to the folders above before publishing. Check the dataset's sharing terms before making it public.
